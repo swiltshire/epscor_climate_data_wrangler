@@ -7,7 +7,7 @@ import numpy.lib.recfunctions as rfn
 import matplotlib.pyplot as plt
 
 # set params
-gcm = 'mri-cgcm3'  # "ccsm4", "miroc-esm", "noresm1-m", "mri-cgcm3"
+gcm = 'ccsm4'  # "ccsm4", "miroc-esm", "noresm1-m", "mri-cgcm3"
 vars = ['P', 'Tmin', 'Tmax']
 startyr = 1950
 endyr = 2099
