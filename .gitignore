@@ -2,3 +2,5 @@
 /venv/
 .zip
 .csv
+.npy
+.tif
