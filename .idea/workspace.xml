@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7897843f-606f-49ea-a9b6-35ab621ff461" name="Changes" comment="scripts to split csvs by cell for use in cheyenne model">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="7897843f-606f-49ea-a9b6-35ab621ff461" name="Changes" comment="restore output data from backup">
+      <change afterPath="$PROJECT_DIR$/epscor_calc_cell_stats.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,23 +37,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/serge/uvm/postdoc/soil_c_project/epscor/python/epscor_climate_data_wrangler",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/serge/uvm/postdoc/soil_c_project/epscor/python/epscor_climate_data_wrangler&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.epscor_combine_csvs">
+  <component name="RunManager">
     <configuration name="epscor_combine_csvs" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="epscor_climate_data_wrangler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677450976350</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="restore output data from backup">
+      <created>1677451872427</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677451872427</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,6 +276,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="two new scripts to convert geotiff to csv and combine csvs for use in cell-based r rothc model" />
     <MESSAGE value="scripts to split csvs by cell for use in cheyenne model" />
-    <option name="LAST_COMMIT_MESSAGE" value="scripts to split csvs by cell for use in cheyenne model" />
+    <MESSAGE value="restore output data from backup" />
+    <option name="LAST_COMMIT_MESSAGE" value="restore output data from backup" />
   </component>
 </project>
